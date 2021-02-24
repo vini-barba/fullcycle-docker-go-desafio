@@ -1,0 +1,1 @@
+imagem no docker hub: vinibarba/fullcycle-docker-go-desafio:latest
